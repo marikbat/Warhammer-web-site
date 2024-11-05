@@ -1,8 +1,8 @@
 function checkInequalities() {
     // Получаем значения A, B и C
-    let A = parseFloat(document.getElementById("A").value);
-    let B = parseFloat(document.getElementById("B").value);
-    let C = parseFloat(document.getElementById("C").value);
+    let A = parseInt(document.getElementById("A").value);
+    let B = parseInt(document.getElementById("B").value);
+    let C = parseInt(document.getElementById("C").value);
     let result = document.getElementById("result");
 
     // Проверяем условия неравенств
