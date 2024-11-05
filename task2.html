@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="top">
+        <a href="https://ru.wikipedia.org/wiki/Warhammer_40,000"><img src="https://psv4.userapi.com/s/v1/d/UzQpm0fJ7KauxCpBpyStZM3kNuLC16OwV5D1SJC4TIzOih0ZWEn4uBi1Od82jMyKmmwvV6TlYSwneN3Fn_xtoI-YtGHvfhUnUPYbQNllH9yOc7CZHrZFsQ/Remove-bg_ai_1730404595012.png" alt="Warhammer Logo" class="logo"> </a>
+        <nav>
+            <ul>
+                <li><a href="index.html">Главная</a></li> 
+                <li><a href="page1.html">Либрариум</a></li>
+                <li><a href="page2.html">Фракции</a></li>
+                <li><a href="page3.html">История мира</a></li>
+                <li><a href="https://warhammer40k.fandom.com/ru/wiki/Warhammer_40000_Wiki" target="_blank">Warhammer 40K Fandom</a></li>
+                <li><a href="tasks.html" class="active">Задачи</a></li>
+            </ul>
+            <ul>
+                <li><a href="tasks.html">Обратно</a></li>
+                <li><a href="task1.html">Форма</a></li>
+                <li><a href="task2.html" class="active">Логическая задача</a></li>
+            </ul>
+        </nav>
+    </header>
+<main>
+    <h2>Логическая задача</h2>
+    <form action="https://www.bing.com/search?" id="UserEnter" name="UserEnter" target="_blank">
+        <input type="hidden"  name="q" value="search">
+        <p><strong>Задача</strong>: даны вещественные числа: A, B, C. Определить, выполняются ли неравенства A < B < C (1) или A < B > C (2) и какое именно неравенство выполняется.</p>
+        <p>Введите число A: <input id="A" name="A" value="1" type="number" required></p>
+        <p>Введите число B: <input id="B" name="B" value="2" type="number" required></p>
+        <p>Введите число C: <input id="C" name="C" value="3" type="number" required></p>
+        <p>Ответ: <input id="result" name="result" value="Нет данных" size="32.5" readonly></p>
+        <input id="verify" type="button" value="Проверить">
+        <input id="send" type="button" value="Отправить">
+    </form>
+    <script src="task1.js"></script>
+</main>
+</body>
+</html>
