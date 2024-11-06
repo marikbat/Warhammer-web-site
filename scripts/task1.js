@@ -1,11 +1,9 @@
 function checkInequalities() {
-    // Получаем значения A, B и C
     let A = parseInt(document.getElementById("A").value);
     let B = parseInt(document.getElementById("B").value);
     let C = parseInt(document.getElementById("C").value);
     let result = document.getElementById("result");
 
-    // Проверяем условия неравенств
     if (A < B && B < C) {
         result.value = "Неравенство 1 выполняется.";
         document.getElementById("send").disabled = false;
