@@ -86,7 +86,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Центрирование по всей высоте экрана */
+    height: 100vh;
 }
 .centered-image {
     width: 600px;
