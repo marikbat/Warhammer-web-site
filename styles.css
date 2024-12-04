@@ -92,3 +92,16 @@ main {
     width: 600px;
     height: 400px;
 }
+.figcaption {
+    color: #b8b5bd;
+}
+.card {
+    background-color: transparent; 
+
+}
+.card-title, .card-text {
+    color: #ffffff !important;
+}
+#node_for_insert .product-item {
+    color: #ffffff !important;
+}
