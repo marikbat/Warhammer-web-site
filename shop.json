@@ -1,0 +1,104 @@
+[
+    {
+      "id": "1",
+      "title": "Legion MKVI Tactical Squad",
+      "vendor_code": "01",
+      "description": "Troops in advanced MKVI 'Corvus Armour'
+Build the core of a Legiones Astartes army with two 10-man units or one 20-man unit
+Upgrade your squads with command gear, bayonets, and customisable Sergeants",
+      "price": 84.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001003_MKVITacticalSquadLead.jpg?fm=webp&w=920&h=948"
+    },
+    {
+      "id": "2",
+      "title": "Legion Cataphractii Terminator Squad",
+      "vendor_code": "02",
+      "description": "Elites clad in robust Cataphractii armour
+Builds 10 Terminators, armed as dedicated melee fighters or versatile combatants
+Bolster your Legiones Astartes with the heaviest form of Terminator armour",
+      "price": 92.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001029_CataphractiiTerminatorsLead.jpg?fm=webp&w=920&h=948"
+    },
+    {
+      "id": "3",
+      "title": "Legion MKVI Assault Squad",
+      "vendor_code": "03",
+      "description": "Highly mobile close combat troops for Legiones Astartes armies
+Builds 10 Assault Legionaries, armed with chainswords and bolt pistols
+Upgrade your squad with combat shields and Sergeant wargear",
+      "price": 70.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001041_HHMKVIAssaultSquad01.jpg?fm=webp&w=920&h=948"
+    },
+    {
+      "id": "4",
+      "title": "MKVI Legion Command Squad",
+      "vendor_code": "04",
+      "description": "Surround your Legiones Astartes leaders with a mighty Command Squad for Warhammer: The Horus Heresy
+Chosen warriors with lethal wargear, clad in decorated MKVI 'Corvus' power armour
+Proudly bear your Legion standards onto the battlefield",
+      "price": 52.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001045_THHMKVICommandSquad01.jpg?fm=webp&w=920&h=948"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "MKIII Tactical Squad",
+      "vendor_code": "05",
+      "description": "Warriors in classic MKIII 'Iron Armour'
+Build the core of a Legiones Astartes army with a solid unit of 20 models or two units of 10 models
+Upgrade your squads with command gear, bayonets, and customisable Sergeants",
+      "price": 79.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001037_HHLAMKIIITacticalSquad02.jpg?fm=webp&w=920&h=948"
+    },
+    {
+      "id": "6",
+      "title": "Legion MKIV Destroyer Squad",
+      "vendor_code": "06",
+      "description": "Specialised infantry armed with destructive, forbidden weapons to scour the land
+Equipped with Tigrus pattern bolt pistols, a rad-missile launcher, and three optional Phosphex bombs
+An Elites choice for most Legions
+This resin modelling kit is a collectible item and construction should only be undertaken by expert Warhammer hobbyists aged 15 years and over",
+      "price": 72.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99863001324_LegionMkIVDestroyerSquadLead.jpg?fm=webp&w=920&h=948"
+    },
+    {
+      "id": "7",
+      "title": "Legion Cataphractii Praetor & Chaplain Consul",
+      "vendor_code": "07",
+      "description": "A pair of powerful HQ choices to command your Legiones Astartes armies
+The Chaplain Consul is armed with fierce charisma and a deadly Crozius Arcanum
+The Praetor’s Cataphractii armour shrugs off all but the most grievous wounds",
+      "price": 58.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001023_HHPraetorandChaplainConsulLead.jpg?fm=webp&w=920&h=948"
+    },
+    {
+        "id": "8",
+        "title": "Spartan Assault Tank",
+        "vendor_code": "08",
+        "description": "An indomitable Heavy Support transport for all Legiones Astartes armies
+Carry whole squads of Legionaries and Terminators while laying down fire support
+Terrifyingly durable, unexpectedly fast, and utterly deadly",
+        "price": 118.00,
+        "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001006_SpartanLead.jpg?fm=webp&w=920&h=948"
+      },
+      {
+        "id": "9",
+        "title": "Contemptor Dreadnought",
+        "vendor_code": "09",
+        "description": "A versatile Elites choice for all Legiones Astartes armies
+A huge arsenal of punishing weapons, with a chassis that can take a beating
+Customise your Dreadnought with a variety of accessories and poses",
+        "price": 62.50,
+        "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001007_ContemptorLead.jpg?fm=webp&w=920&h=948"
+      },
+    {
+      "id": "10",
+      "title": "Leviathan Siege Dreadnought with Ranged Weapons",
+      "vendor_code": "10",
+      "description": "A gargantuan Heavy Support choice for all Legiones Astartes armies
+A nigh-invincible behemoth, armed with an array of massively powerful weapons
+Customise your Dreadnought with a variety of armour plates and poses",
+      "price": 84.00,
+      "img": "https://www.warhammer.com/app/resources/catalog/product/920x950/99123001008_LeviathanDreadnoughtRangedWeaponsLead.jpg?fm=webp&w=920&h=948"
+    }
+]
