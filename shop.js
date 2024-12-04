@@ -11,7 +11,7 @@ async function getResponce() {
                     <img src="${item.img}" alt="${item.title}">
                     <h5>${item.title}</h5>
                     <p>${item.description}</p>
-                    <p>Цена: <strong>${item.price} $.</strong></p>
+                    <p>Цена: <strong>${item.price} $</strong></p>
                     <input type="hidden" name="vendor_code" value="${item.vendor_code}">
                     <p>Заказать: <input type="number" name="amount" min="0" value="0"></p>
                 </div>`;
